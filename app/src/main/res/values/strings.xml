@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">awty</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="message">Message</string>
+    <string name="interval_minutes">Time Interval (minutes)</string>
+    <string name="start">Start</string>
+</resources>
